@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+
+.env
+*.log
+
+*-sem-fundo.png
+teste-*.png
+paredao-*.png
+output/
+exports/
