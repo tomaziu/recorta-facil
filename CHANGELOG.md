@@ -5,6 +5,17 @@ Todas as mudancas importantes deste projeto serao documentadas aqui.
 O formato segue uma versao simples inspirada em Keep a Changelog, e o projeto usa
 versionamento semantico quando publicar versoes.
 
+## [Nao publicado]
+
+### Alterado
+
+- Padroniza os nomes das secoes do README para facilitar leitura e checks de
+  saude do repositorio.
+
+### Removido
+
+- Remove `AGENTS.md` do repositorio.
+
 ## [0.1.0] - 2026-05-23
 
 ### Adicionado

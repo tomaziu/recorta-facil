@@ -27,7 +27,7 @@ do proprio app.
 - Windows, macOS ou Linux com Tkinter disponivel.
 - Chave da API remove.bg para o modo `api`.
 
-## Instalar
+## Instalacao (Installation)
 
 Clone o repositorio e instale as dependencias:
 
@@ -67,7 +67,9 @@ python background_remover.py "foto.jpg" --mode api --api-key "SUA_CHAVE_AQUI" -o
 
 Observacao: a API remove.bg pode consumir creditos da sua conta.
 
-## Usar Pela Interface
+## Uso (Usage)
+
+### Interface Grafica
 
 1. Abra `run-background-remover.bat` ou rode `python background_remover.py --gui`.
 2. Clique em `Escolher` e selecione uma imagem.
@@ -91,7 +93,7 @@ Na janela de edicao:
 
 Depois clique em `Salvar PNG`.
 
-## Usar Pelo Terminal
+### Terminal
 
 Remover o fundo de uma imagem:
 
@@ -162,7 +164,7 @@ Nunca envie sua chave real da API para o GitHub.
 - O modo local funciona melhor com fundos simples ou xadrez.
 - O editor manual altera o alpha do PNG, mas ainda nao tem zoom/pan avancado.
 
-## Contribuindo
+## Contribuicao (Contributing)
 
 Sugestoes, bugs e melhorias sao bem-vindos. Antes de abrir um pull request:
 
